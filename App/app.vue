@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <JobOffers />
+    <UNotifications />
   </div>
 </template>
